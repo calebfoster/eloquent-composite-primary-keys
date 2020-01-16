@@ -11,9 +11,6 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {
-        "illuminate/database": "^5.5"
-    },
     "autoload": {
         "psr-4": {
             "CoenJacobs\\EloquentCompositePrimaryKeys\\": "src/"
